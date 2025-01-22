@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MadhavaVenkatK/landScroll.git/static/css/main.c4976364.css",
+    "main.js": "/MadhavaVenkatK/landScroll.git/static/js/main.19cf0639.js",
+    "static/js/488.fd5bfd1d.chunk.js": "/MadhavaVenkatK/landScroll.git/static/js/488.fd5bfd1d.chunk.js",
+    "static/media/logo.svg": "/MadhavaVenkatK/landScroll.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MadhavaVenkatK/landScroll.git/index.html",
+    "main.c4976364.css.map": "/MadhavaVenkatK/landScroll.git/static/css/main.c4976364.css.map",
+    "main.19cf0639.js.map": "/MadhavaVenkatK/landScroll.git/static/js/main.19cf0639.js.map",
+    "488.fd5bfd1d.chunk.js.map": "/MadhavaVenkatK/landScroll.git/static/js/488.fd5bfd1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4976364.css",
+    "static/js/main.19cf0639.js"
+  ]
+}
